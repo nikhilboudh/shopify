@@ -1,0 +1,38 @@
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: column;
+    letter-spacing: 50px;
+background-color: rgb(247, 201, 75);
+
+
+
+}
+
+
+
+.fb{
+color: rgb(12, 12, 12);    
+padding: 10px;
+}
+
+
+.inst{
+    color: rgb(12, 12, 12);    
+    padding: 10px;
+
+}
+
+.link{
+    color: rgb(12, 12, 12);    
+    padding: 10px;
+
+}
+
+.twit{
+    color: rgb(12, 12, 12);    
+    padding: 10px;
+
+}
